@@ -10,7 +10,7 @@
 <br>
 ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-04.md) ${\textsf{\color{#1e90ff}2024-07-04}}$ ) 
 <br>
-([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-05.md) ${\textsf{\color{#1e90ff}2024-07-04}}$ ) 
+([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-05.md) ${\textsf{\color{#1e90ff}2024-07-05}}$ ) 
 <br>
 
 ### [6월 넷째주, 11주차] : Spring Boot / AWS , Docker 
