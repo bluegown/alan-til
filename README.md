@@ -1,4 +1,13 @@
 # til-template
+### [7월 첫째주, 13주차] : 커뮤니티 프로젝트 마무리 + 모의 해커톤 진행
+
+개념학습 : 
+
+프로젝트 : 스프링부트 CRUD 구현 완료 및 전체적인 프로젝트 점검 + 주말 해커톤 진행
+<br>
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-08.md) ${\textsf{\color{#1e90ff}2024-07-08}}$ ) 
+<br>
+
 ### [7월 첫째주, 12주차] : Spring Boot 과제 진행
 
 
@@ -14,6 +23,7 @@
 <br>
 ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-06.md) ${\textsf{\color{#1e90ff}2024-07-06}}$ ) 
 <br>
+
 
 ### [6월 넷째주, 11주차] : Spring Boot / AWS , Docker 
 개념학습 : 
