@@ -5,7 +5,9 @@
 <br>
  ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-15.md) ${\textsf{\color{#1e90ff}2024-07-15}}$ ) 
 <br>
- ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-16.md) ${\textsf{\color{#1e90ff}2024-07-15}}$ ) 
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-16.md) ${\textsf{\color{#1e90ff}2024-07-16}}$ ) 
+<br>
+ ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-17.md) ${\textsf{\color{#1e90ff}2024-07-17}}$ ) 
 <br>
 
 ### [7월 둘째주, 13주차] : 커뮤니티 프로젝트 마무리 + 모의 해커톤 진행
