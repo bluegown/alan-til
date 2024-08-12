@@ -1,4 +1,7 @@
 # til-template
+### [8월 셋째주, 17주차] : 파이널 프로젝트 
+([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-08-12.md) ${\textsf{\color{#1e90ff}2024-08-12}}$ )
+<br>
 ### [7월 넷째주, 14주차] : 파이널 프로젝트 기획
 ([📩](https://github.com/100-hours-a-week/alan-til/blob/main/July/2024-07-22.md) ${\textsf{\color{#1e90ff}2024-07-22}}$ )
 <br>
